@@ -11,3 +11,5 @@ TimeLine Tracker is an application for looking at all events that were happening
 * Implemented responsive-design with **jQuery** and the **Bootstrap** to enhance cross-platform user experience.
 * Created custom colors and stylings by using **CSS** in order to build a completely unique site that makes the project stand out visually.
 * Checkout with validations.
+ ## Demo
+ https://github.com/prachiten/TimelineTracker/blob/main/soloproject.gif
