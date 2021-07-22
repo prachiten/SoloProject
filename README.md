@@ -12,4 +12,4 @@ TimeLine Tracker is an application for looking at all events that were happening
 * Created custom colors and stylings by using **CSS** in order to build a completely unique site that makes the project stand out visually.
 * Checkout with validations.
  ## Demo
-
+<a href="https://github.com/prachiten/TimelineTracker/blob/main/soloproject.gif"></a>
